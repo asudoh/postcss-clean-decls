@@ -1,0 +1,10 @@
+{
+  "root": false,
+  "globals": {
+    "expect": true,
+    "it": true
+  },
+  "rules": {
+    "quotes": [2, "single", { "allowTemplateLiterals": true }]
+  }
+}
